@@ -1,19 +1,93 @@
+#EXTM3U 
+
+==============================================================================================================================================================
+TV FROM MALAYSIA
+==============================================================================================================================================================
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",OKEY TV
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/BERITARTM.png?raw=true",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/tv6.png?raw=true",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/PDR.png?raw=true",RTM PARLIMEN DEWAN RAKYAT
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=7
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/PDN.png?raw=true",RTM PARLIMEN DEWAN NEGARA
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV ALHIJRAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+==============================================================================================================================================================
+DOCUMENTARIES ALL OVER THE WORLD
+==============================================================================================================================================================
+#EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",LOVE NATURE 4K
+https://list.iptvcat.com/my_list/s/51dc5c001bd1fc38a358fa0c30f145c9.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",INWILD
+https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png",INTROUBLE
+https://introuble-samsungindia.amagi.tv/playlist1080p.m3u8
 
 
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
-#EXTINF:-1 group-title="MALAYSIA IPTV",
+#EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARIES
+https://livedoc.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",ANIMAL PLANET (INDO)
+http://198.16.64.10:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+
+
+
+==============================================================================================================================================================
+SPORTS ALL OVER THE WORLD
+==============================================================================================================================================================
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/sukanrtm.png?raw=true" ,SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/media-u5v44tjwg_b4596000_slENG_173604.ts?id=4
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORT
+http://xtratexxx.dimapro.xyz:8080/live/691251426173410/691251426173410/90195.m3u8
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",BEIN SPORT 2
+http://xtratexxx.dimapro.xyz:8080/live/691251426173410/691251426173410/90196.m3u8
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU",TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://iptvtree.net:8080/F11682/82ca5fbd/157485
+
+==============================================================================================================================================================
+MOVIES ALL OVER THE WORLD
+==============================================================================================================================================================
+
+#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+
+#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+
