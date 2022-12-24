@@ -33,7 +33,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 DOCUMENTARIES ALL OVER THE WORLD
 ==============================================================================================================================================================
 #EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",LOVE NATURE 4K
-https://list.iptvcat.com/my_list/s/51dc5c001bd1fc38a358fa0c30f145c9.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",INWILD
 https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
@@ -47,6 +47,9 @@ https://livedoc.cgtn.com/cctv-d.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",ANIMAL PLANET (INDO)
 http://198.16.64.10:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+
+#EXTINF:-1 group-title="DOCUMENTARY IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",BBC EARTH
+http://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 
 
