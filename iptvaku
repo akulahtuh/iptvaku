@@ -46,6 +46,10 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11ec8005ad1f1e0e9f60/index.m3u8 
 
 
+#EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5021
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 ==============================================================================================================================================================
 DOCUMENTARIES ALL OVER THE WORLD
@@ -146,7 +150,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
 #EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",SHOWCASE MOVIES 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5054
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/MOVIESPHERE.png?raw=true",MOVIESPHERE
@@ -186,6 +190,11 @@ https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremiu
 #EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/1200px-HBO_Signature_Asia.svg.png" ,HBO SIGNATURE
 https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
+
+P#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png",PARAMOUNT NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5056
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 ==============================================================================================================================================================
 SEMENTARA
 ==============================================================================================================================================================
