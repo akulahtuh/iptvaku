@@ -279,7 +279,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
-
 #EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/451_144.png",BBC LIFESTYLE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
@@ -299,6 +298,7 @@ https://introuble-samsungindia.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARIES
 https://livedoc.cgtn.com/cctv-d.m3u8
+
 ============================================================================================================================================================
 CARTOONS/ANIME ALL OVER THE WORLD
 ============================================================================================================================================================
@@ -336,8 +336,7 @@ EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="https://i.imgur.com/OFsQwvv.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
 
-
-#EXTINF:-1 tvg-chno="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
+EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
 
@@ -440,7 +439,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1  group-title="INDONESIA IPTV" tvg-logo="",RRI NET
 https://rrinet.rritmb.com/hls/live.m3u8
 
-#EXTINF:-1  group-title="INDONESIA IPTV" tvg-logo="",NUSANTARA
+#EXTINF:-1  group-title="INDONESIA IPTV" tvg-logo="https://thumbor.prod.vidiocdn.com/iZbz1aH2MfjmC72kKoA4dB1IteU=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg",NUSANTARA
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1  group-title="INDONESIA IPTV" tvg-logo="https://thumbor.prod.vidiocdn.com/BDAVeErAhuKfpXNZU1tDG0oj36A=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg",TRANS 7
