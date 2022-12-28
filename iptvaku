@@ -328,66 +328,87 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 TV FROM THAILAND
 ==============================================================================================================================================================
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",THAI PBS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ALTV/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",True 4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chgmm3/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",CH 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",Thairath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
 
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="",PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
 ==============================================================================================================================================================
