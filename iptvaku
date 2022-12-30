@@ -156,12 +156,12 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=And_Flix_HD
 https://aqfadtv.xyz/live/&flix/index.m3u8
 
-#EXTINF:0 group-title="MOVIES IPTV" tvg-logo=" ",GALAXY
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/GALAXY.png?raw=true",GALAXY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:0 group-title="MOVIES IPTV" tvg-logo=" ",GALAYXY PREMIUM
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/GALAXYPREMIUM.png?raw=true",GALAYXY PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
