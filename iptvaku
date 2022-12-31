@@ -192,6 +192,60 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?checkedby:iptvcat.com
 SPORTS ALL OVER THE WORLD
 ============================================================================================================================================================
 
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASTRO SUPERSPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",BEIN SPORTS 2
+http://xtratexxx.dimapro.xyz:8080/live/691251426173410/691251426173410/90196.m3u8
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BEIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default.mpd
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://www.tennischannel.app/image/original/5d95ead999361.png?v=20211004131544",TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BBC_Sport_%282022%2C_alt%29.svg/200px-BBC_Sport_%282022%2C_alt%29.svg.png",BBC UHD
+http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
+
+#EXTINF:-1 group-title="SPORTS IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/sukanrtm.png?raw=true" ,SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/media-u5v44tjwg_b4596000_slENG_173604.ts?id=4
+
+============================================================================================================================================================
+DOCUMENTARIES ALL OVER THE WORLD
+============================================================================================================================================================
+
 #EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",NAT GEO WILD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
@@ -278,11 +332,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsonian
 #EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_265,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/xplore-vector_its-all-here-tagline-01_ed.png",XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-
 ============================================================================================================================================================
 COOKING ALL OVER THE WORLD
 ============================================================================================================================================================
-
 
 #EXTINF:-1 group-title="FOOD IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -302,6 +354,7 @@ https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 group-title="FOOD IPTV"  tvg-logo="https://static.filmon.com/assets/channels/2918/extra_big_logo.png",IFOOD
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
 ============================================================================================================================================================
 CARTOONS/ANIME ALL OVER THE WORLD
 ============================================================================================================================================================
@@ -326,10 +379,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 
-
 ==============================================================================================================================================================
 TV FROM THAILAND
 ==============================================================================================================================================================
+
 #EXTINF:-1 group-title="THAILAND IPTV" tvg-logo="https://tvchannels.live/wp-content/uploads/2019/12/NBT-2-e1575919165364.png",NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8
@@ -456,7 +509,7 @@ http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 ***************************************************************************************************
 SURYA CITRA MEDIA
 ***************************************************************************************************
-#EXTINF:-1 group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/SCTV.png?raw=true",SCTV
+#EXTINF:0 group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/SCTV.png?raw=true",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u
 
 #EXTINF:-1 group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/INDOSIAR.png?raw=true",INDOSIAR
@@ -500,7 +553,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1569758602_b744100_sl
 #EXTINF:-1  group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/TRANSTV.png?raw=true",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1561775419_b744100_sleng.m3u8
 
-#EXTINF:-1  group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/CNNINDONESIA.png?raw=true",CNN INDONESIA
+#EXTINF:0  group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/CNNINDONESIA.png?raw=true",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1  group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/CNBCINDONESIA.png?raw=true",CNBC INDONESIA
@@ -510,7 +563,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 KG MEDIA
 ***************************************************************************************************
 
-#EXTINF:0 group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/KOMPASTV.png?raw=true",KOMPAS TV
+#EXTINF:-1 group-title="INDONESIA IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/KOMPASTV.png?raw=true",KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
