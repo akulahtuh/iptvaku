@@ -166,6 +166,28 @@ https://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://www.electricnow.tv/themes/custom/elec/electricnow/logo.png",ELECTRIC NOW
+https://ov.ottera.tv/live/master.m3u8?channel=elec_en&checkedby:iptvcat.com
+
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://image.pngaaa.com/837/5131837-middle.png",FAMILY FLIX 
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://hummingbird-ott.s3.amazonaws.com/images/theme/prod-stirr/stirr_logo_500x143_color.png",STIRR MOVIES
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://hallmark-brightspot-lower.s3.amazonaws.com/ac/c6/c703c2ee4141bb9b71cb0d54f210/hallmark-channel-transparent.png",HALLMARK CHANNEL
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145962?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://hallmark-brightspot-lower.s3.amazonaws.com/cb/cb/9ab995c4411ea5228e5b7ddd6c57/hallmark-drama-transparent.png",HALLMARK DRAMA
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145963?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://hallmark-brightspot-lower.s3.amazonaws.com/68/0a/64a614d7446b970068d9e7dd3efc/hallmark-movies-mysteries-transparent.png",HALLMARK MOVIES AND MYSTERIES
+http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145964?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/flix.png",FLIX MOVIES
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?checkedby:iptvcat.com
+
+
 ============================================================================================================================================================
 SPORTS ALL OVER THE WORLD
 ============================================================================================================================================================
@@ -308,6 +330,19 @@ https://introuble-samsungindia.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARIES
 https://livedoc.cgtn.com/cctv-d.m3u8
+
+#EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Outside_TV.png/220px-Outside_TV.png",OUTSIDE TV
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo_180x.png?v=1613611598",WIRED2FISH
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png",SMITHSONIAN CHANNEL
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_265,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/xplore-vector_its-all-here-tagline-01_ed.png",XPLORE
+https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+
 
 ============================================================================================================================================================
 CARTOONS/ANIME ALL OVER THE WORLD
