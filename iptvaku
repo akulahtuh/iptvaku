@@ -634,7 +634,7 @@ MAYAPADA GROUP
 
 
 ==============================================================================================================================================================
-TV FROM singapore
+TV FROM SINGAPORE
 ==============================================================================================================================================================
 
 #EXTINF:-1 group-title="SINGAPORE IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/CHANNEL5.jpg?raw=true",CHANNEL 5 
@@ -665,3 +665,16 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #EXTINF:0 group-title="SINGAPORE IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/CNA.png?raw=true",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+
+==============================================================================================================================================================
+TV FROM BRUNEI
+==============================================================================================================================================================
+
+#EXTINF:-1 group-title="BRUNEI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png",RTB ANEKA 
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 group-title="BRUNEI IPTV" tvg-logo="https://rtb-images.glueapi.io/300x0//////live/GoLiveNew.png,RTB GO 
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1  group-title="BRUNEI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",RTB SUKMAINDERA 
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
