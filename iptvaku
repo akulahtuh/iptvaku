@@ -57,18 +57,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:0 group-title="MALAYSIA IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",ASTRO RIA
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="MALAYSIA IPTV" ch-number="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1114
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
 ============================================================================================================================================================
 MOVIES ALL OVER THE WORLD
 ============================================================================================================================================================
 
 
 #EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&FLIX 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-https://link.zozotv.xyz/live/@nasanash/Lifetime8899/105.ts
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/PRIVE.png?raw=true",&PRIVE
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
-https://link.zozotv.xyz/live/@nasanash/Lifetime8899/104.ts
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -106,6 +109,11 @@ https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8?c
 
 #EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/flix.png",FLIX MOVIES
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="MOVIES IPTV" tvg-id="ShowcaseMovies" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/GALAXY.png?raw=true",GALAXY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -151,12 +159,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
-#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/MYTIMENETWORKMOVIE.png?raw=true",MyTime Movie Network UK
+#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/MYTIMENETWORKMOVIE.png?raw=true",MYTIME MOVIE NETWORK UK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/MYTIMENETWORKMOVIE.png?raw=true",MyTime Movie Network
+#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/MYTIMENETWORKMOVIE.png?raw=true",MYTIME MOVIE NETWORK
 https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/MOVIESPHERE.png?raw=true",MOVIESPHERE
@@ -381,11 +389,10 @@ CARTOONS/ANIME ALL OVER THE WORLD
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
-
-EXTINF:-1 group-title="MALAYSIA IPTV" tvg-logo="https://i.imgur.com/MiUDLVa.png",ANIMAXHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
+EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/MiUDLVa.png",Animax HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTVLCOPT:http-referrer=http://www.astro.com.my 
 https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/J6l3ilY.png",BOOMERANG
@@ -393,7 +400,7 @@ https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408  
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
-#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/CONTVANIME.png?raw=true",CONTV
+#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/CONTVANIME.png?raw=true",CONTV ANIME
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?webstream&checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",CARTOON NETWORK
@@ -401,12 +408,12 @@ https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
-#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/RNfYJb2.png",Disney Channel 
+#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/RNfYJb2.png",DISNEY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1 
 http://185.59.223.102:8080/disney/index.m3u8
 
-#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/C9IYfga.png",Disney JR 
+#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/C9IYfga.png",DISNEY JR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
@@ -415,6 +422,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj 
 https://liveaneviadev.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
+
+#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",MOONBUG KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5067
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
 #EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
