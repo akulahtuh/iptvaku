@@ -389,7 +389,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/MiUDLVa.png",ANIMAX HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTVLCOPT:http-referrer=http://www.astro.com.my 
 https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/J6l3ilY.png",BOOMERANG
