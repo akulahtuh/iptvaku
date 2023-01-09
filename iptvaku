@@ -360,7 +360,8 @@ https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?che
 
 #EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png",SMITHSONIAN CHANNEL
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_265,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/xplore-vector_its-all-here-tagline-01_ed.png",XPLORE
+
+#EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_265,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/xplore-vector_its-all-here-tagline-01_ed.png",XPLORE HD
 https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 
