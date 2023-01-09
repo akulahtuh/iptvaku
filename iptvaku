@@ -1,5 +1,50 @@
 #EXTM3U 
 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
+#EXTINF:-1 group-title="ASTRO IPTV" tvg-logo="",ASTRO WARNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5086
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default.mpd
+
+#EXTINF:-1 group-title="ASTRO IPTV" tvg-logo="",ASTRO CITRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default.mpd
+
+
+#EXTINF:-1 group-title="ASTRO IPTV" tvg-logo="",ASTRO BOX OFFICE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
+
+#EXTINF:-1 group-title="ASTRO IPTV" tvg-logo="",ASTRO BOX OFFICE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default.mpd
+
+
+#EXTINF:-1 group-title="ASTRO IPTV" tvg-logo="",BERNAMA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+
+#EXTINF:-1 group-title="ASTRO IPTV" tvg-logo="",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+
+#EXTINF:-1 group-title="ASTRO IPTV" tvg-logo="",LIFETIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+
+
+#EXTINF:-1 group-title="ASTRO IPTV" tvg-logo="",PRIMETIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
 
 ==============================================================================================================================================================
 TV FROM MALAYSIA
