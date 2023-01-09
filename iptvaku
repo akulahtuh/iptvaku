@@ -364,9 +364,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsonian
 https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-id="XploreTV.us" status="timeout",Xplore (1080p)
+#EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="",Xplore (1080p)
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="cctvjilu.png",CCTV-9
+http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
 
 ============================================================================================================================================================
 COOKING ALL OVER THE WORLD
