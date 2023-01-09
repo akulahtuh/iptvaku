@@ -128,6 +128,9 @@ https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-
 #EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/HALLMARKCHANNEL.png?raw=true",HALLMARK CHANNEL
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145962?checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="",CineLife
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:0 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/HALLMARKDRAMA.png?raw=true",HALLMARK DRAMA
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145963?checkedby:iptvcat.com
 
@@ -158,6 +161,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
+
+#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="",Ion Plus (1080p)
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/MYTIMENETWORKMOVIE.png?raw=true",MYTIME MOVIE NETWORK UK
 #KODIPROP:inputstream=inputstream.adaptive
@@ -357,6 +363,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsonian
 #EXTINF:0 group-title="DOCUMENTARIES IPTV" tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_265,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/xplore-vector_its-all-here-tagline-01_ed.png",XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
+
+#EXTINF:-1 tvg-id="XploreTV.us" status="timeout",Xplore (1080p)
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+
 ============================================================================================================================================================
 COOKING ALL OVER THE WORLD
 ============================================================================================================================================================
@@ -401,7 +412,7 @@ https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/CONTVANIME.png?raw=true",CONTV ANIME
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?webstream&checkedby:iptvcat.com
+https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -417,6 +428,12 @@ http://185.59.223.102:8080/disney/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+
+#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="",HappyKids (720p)
+https://happykids-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="",Kartoon Circus
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 #EXTINF:-1 group-title="CARTOONS IPTV" tvg-logo="https://i.imgur.com/NPqkrfh.jpg",KIDS TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
