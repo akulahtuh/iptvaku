@@ -322,6 +322,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/media-u5v44tjwg_b4596000_slENG_
 DOCUMENTARIES ALL OVER THE WORLD
 ============================================================================================================================================================
 
+#EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PBS_America_logo.png",PBS America
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",NAT GEO WILD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
@@ -382,7 +387,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/220px-Pluto_TV_logo_2020.svg.png",PLUTO TV (ANIMAL)
+#EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/PLUTOTV.png?raw=true",PLUTO TV (ANIMAL)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 
 #EXTINF:-1 group-title="DOCUMENTARIES IPTV" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",LOVE NATURE 4K
@@ -773,3 +778,145 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1  group-title="BRUNEI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/RTB_Sukmaindera.png",RTB SUKMAINDERA 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+
+
+
+
+
+==============================================================================================================================================================
+TO TEST
+==============================================================================================================================================================
+
+
+
+#EXTINF:-1 group-title="TV",FOX1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1461
+#EXTINF:-1 group-title="TV",FOX2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51937
+#EXTINF:-1 group-title="TV",FOX3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51875
+#EXTINF:-1 group-title="TV",FOX4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25031.ts
+#EXTINF:-1 group-title="TV",AXN1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1469
+#EXTINF:-1 group-title="TV",AXN2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51933
+#EXTINF:-1 group-title="TV",AXN3
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9559
+#EXTINF:-1 group-title="TV",AXN4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24991.ts
+#EXTINF:-1 group-title="TV",AMC1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1473
+#EXTINF:-1 group-title="TV",AMC2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51930
+#EXTINF:-1 group-title="TV",AMC3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51888
+#EXTINF:-1 group-title="TV",AMC4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24989.ts
+#EXTINF:-1 group-title="TV",SYFY 1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1475
+#EXTINF:-1 group-title="TV",SYFY2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51955
+#EXTINF:-1 group-title="TV",SYFY3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51932
+#EXTINF:-1 group-title="TV",SYFY4
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9558
+#EXTINF:-1 group-title="TV",SYFY5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25080.ts
+#EXTINF:-1 group-title="TV",FOX LIFE1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1459
+#EXTINF:-1 group-title="TV",FOX LIFE2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51873
+#EXTINF:-1 group-title="TV",FOX LIFE3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51938
+#EXTINF:-1 group-title="TV",FOX LIFE4
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9555
+#EXTINF:-1 group-title="TV",FOX LIFE5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25034.ts
+#EXTINF:-1 group-title="TV",FOX CRIME1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1463
+#EXTINF:-1 group-title="TV",FOX CRIME2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51874
+#EXTINF:-1 group-title="TV",FOX CRIME3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51939
+#EXTINF:-1 group-title="TV",FOX CRIME4
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9557
+#EXTINF:-1 group-title="TV",FOX CRIME5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25033.ts
+#EXTINF:-1 group-title="TV",AXN WHITE1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1467
+#EXTINF:-1 group-title="TV",AXN WHITE2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51934
+#EXTINF:-1 group-title="TV",AXN WHITE3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24994.ts
+#EXTINF:-1 group-title="TV",AXN MOVIES1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1471
+#EXTINF:-1 group-title="TV",AXN MOVIES2
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278653
+#EXTINF:-1 group-title="TV",AXN MOVIES3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51935
+#EXTINF:-1 group-title="TV",AXN MOVIES4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24992.ts
+#EXTINF:-1 group-title="TV",AXN MOVIES5
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24993.ts
+#EXTINF:-1 group-title="TV",FOX MOVIES1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1457
+#EXTINF:-1 group-title="TV",FOX MOVIES2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51936
+#EXTINF:-1 group-title="TV",FOX MOVIES3
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9556
+#EXTINF:-1 group-title="TV",FOX MOVIES4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25035.ts
+#EXTINF:-1 group-title="TV",FOX COMEDY1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1465
+#EXTINF:-1 group-title="TV",FOX COMEDY2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51890
+#EXTINF:-1 group-title="TV",FOX COMEDY3
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25032.ts
+#EXTINF:-1 group-title="TV",CINEMUNDO1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1477
+#EXTINF:-1 group-title="TV",CINEMUNDO2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51931
+#EXTINF:-1 group-title="TV",CINEMUNDO
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25016.ts
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1455
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51959
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD3
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9560
+#EXTINF:-1 group-title="TV",CANAL HOLLYWOOD4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25041.ts
+#EXTINF:-1 group-title="TV",TVCINE TOP1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1446
+#EXTINF:-1 group-title="TV",TVCINE TOP2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51925
+#EXTINF:-1 group-title="TV",TVCINE TOP3
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9562
+#EXTINF:-1 group-title="TV",TVCINE TOP4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25012.ts
+#EXTINF:-1 group-title="TV",TVCINE EDITION 1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/82254
+#EXTINF:-1 group-title="TV",TVCINE EDITION2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51926
+#EXTINF:-1 group-title="TV",TVCINE EDITION3
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9563
+#EXTINF:-1 group-title="TV",TVCINE EDITION4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25013.ts
+#EXTINF:-1 group-title="TV",TVCINE EMOTION1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1448
+#EXTINF:-1 group-title="TV",TVCINE EMOTION2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51927
+#EXTINF:-1 group-title="TV",TVCINE EMOTION3
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51865
+#EXTINF:-1 group-title="TV",TVCINE EMOTION4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25014.ts
+#EXTINF:-1 group-title="TV",TVCINE ACTION1
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1452
+#EXTINF:-1 group-title="TV",TVCINE ACTION2
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51928
+#EXTINF:-1 group-title="TV",TVCINE ACTION3   
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9564
+#EXTINF:-1 group-title="TV",TVCINE ACTION4
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25009.ts
