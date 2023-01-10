@@ -204,9 +204,40 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",CH703 LIFETIME
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",CH703 LIFETIME
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
+
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo=",CH715 ANIMAX
+http://202.183.247.206:9981/stream/channelid/1468536448?ticket=DCBA58C0747DFA3D33D4CAFF1C804D08E2BDCCD8&profile=pass
+
+====================================================================================================================================================================
+cobaan iptv
+====================================================================================================================================================================
+
+
+#EXTINF:-1,Bein Drama HD
+http://185.65.253.22:8000/play/a0ag/index.m3u8
+#EXTINF:-1,Bein Movies HD1
+http://185.65.253.22:8000/play/a0aa/index.m3u8
+#EXTINF:-1,Bein Movies HD2
+http://185.65.253.22:8000/play/a0ab/index.m3u8
+#EXTINF:-1,Bein Movies HD3
+http://185.65.253.22:8000/play/a0ac/index.m3u8
+#EXTINF:-1,Bein Movies HD4
+http://185.65.253.22:8000/play/a0ad/index.m3u8
+#EXTINF:-1,Bein Series HD1
+http://185.65.253.22:8000/play/a0ae/index.m3u8
+#EXTINF:-1,Bein Series HD2
+http://185.65.253.22:8000/play/a0af/index.m3u8
+
+#EXTINF:-1,Fox Movies
+http://185.65.253.22:8000/play/a0ah/index.m3u8
+#EXTINF:-1,Fox Movies Action
+http://185.65.253.22:8000/play/a0ai/index.m3u8
+#EXTINF:-1,Fox Movies Family
+http://185.65.253.22:8000/play/a0aj/index.m3u8
+
