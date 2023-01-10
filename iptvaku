@@ -4,190 +4,213 @@
 TV FROM MALAYSIA
 ==============================================================================================================================================================
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",CH101 TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",CH102 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",OKEY TV
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",CH146 OKEY TV
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/BERITARTM.png?raw=true",BERITA RTM
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/BERITARTM.png?raw=true",CH504 BERITA RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/tv6.png?raw=true",TV6
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/tv6.png?raw=true",CH109 TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",ASTRO AWANI
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",CH501 ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV3
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",CH103 TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8 
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",DRAMA SANGAT
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",CH110 DRAMA SANGAT
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8 
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9 
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",CH149 TV9 
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/TVALHIJRAH.png?raw=true",TV ALHIJRAH
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/TVALHIJRAH.png?raw=true",CH114 TV ALHIJRAH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",AWESOME TV
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",CH123 AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
-#EXTINF:0 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",ASTRO RIA
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347?checkedby:iptvcat.com
+#EXTINF:-1 #EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",CH104 ASTRO RIA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default.mpd
 
-#EXTINF:-1 tvg-id="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA  
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",CH502 BERNAMA  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1114
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",CH404 BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",CINEMAX
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png",CH412 CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",CH411 HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO FAMILY 
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",CH414 HBO FAMILY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO HITS
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",CH415 HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",HITS
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",CH706 HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",CH401 HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png",PARAMOUNT NETWORK
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png",CH713 PARAMOUNT NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",SHOWCASE MOVIES
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",CH413 SHOWCASE MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",TVN MOVIES
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",CH395 TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",WARNER TV
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",CH712 WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",CH801 ASTRO ARENA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ASTRO SUPERSPORT
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",CH805 ASTRO SUPERSPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",BEIN SPORTS
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",CH818 BEIN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",BEIN SPORTS 3
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",CH819 BEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://www.tennischannel.app/image/original/5d95ead999361.png?v=20211004131544",TENNIS CHANNEL
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://www.tennischannel.app/image/original/5d95ead999361.png?v=20211004131544",CH825 TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",NAT GEO WILD
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",CH550 NAT GEO WILD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",BBC EARTH
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",CH554 BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",ANIMAL PLANET
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png",CH556 ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",HGTV
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",CH715 HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/PLUTOTV.png?raw=true",PLUTO TV (ANIMAL)
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://github.com/akulahtuh/icon/blob/main/PLUTOTV.png?raw=true",PLUTO TV (ANIMAL)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",LOVE NATURE 4K
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",CH 557 LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",INWILD
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",CH558 INWILD
 https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
 
-#EXTINF:0 group-title="CLEAN IPTV" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo_180x.png?v=1613611598",WIRED2FISH
+#EXTINF:0 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo_180x.png?v=1613611598",CH559 WIRED2FISH
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="CLEAN IPTV" tvg-logo="https://github.com/akulahtuh/icon/blob/main/XPLORE.png?raw=true",XPLORE HD
+#EXTINF:0 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://github.com/akulahtuh/icon/blob/main/XPLORE.png?raw=true",CH560 XPLORE HD
 https://xplore-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",ASTRO CERIA
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",CH611 ASTRO CERIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",CARTOON NETWORK
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",CH615 CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",MOONBUG KIDS
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",CH618 MOONBUG KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5067
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",NICKELODEON
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",CH616 NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",NICKELODEON JR
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",CH617 NICKELODEON JR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 
-#EXTINF:-1 group-title="CLEAN IPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png",TA-DAA! 
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png",CH612 TA-DAA! 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5024 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default.mpd
+
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://iili.io/1NoNqv.png",CH701 AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png",CH704 PRIMETIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
+
+#EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="hhttps://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",CH703 LIFETIME
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
