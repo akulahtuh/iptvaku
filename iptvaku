@@ -48,7 +48,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1114
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
-https://content.googleapis.com/drive/v2internal/viewerimpressions?key=AIzaSyC1eQ1xj69IdTMeii5r7brs3R90eck-m7k&alt=json
+https://drive.google.com/file/d/1yN8XdpjTbrAgNdFo2KUq_EKQDMgTg-c-/view
 
 #EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",CH404 BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
