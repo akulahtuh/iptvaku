@@ -47,7 +47,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default.mpd
 #EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",CH502 BERNAMA  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1114
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+https://drive.google.com/file/d/1yN8XdpjTbrAgNdFo2KUq_EKQDMgTg-c-/view?usp=sharing
 
 #EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",CH404 BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
