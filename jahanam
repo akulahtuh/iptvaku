@@ -1,0 +1,49 @@
+#EXTM3U 
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",CH101 TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",CH102 TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",CH146 OKEY TV
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",CH501 ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",CH103 TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8 
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://github.com/akulahtuh/gambo/blob/main/TVALHIJRAH.png?raw=true",CH114 TV ALHIJRAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",CH123 AWESOME TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",CH801 ASTRO ARENA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",CH805 ASTRO SUPERSPORT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",CH818 BEIN SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",CH819 BEIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://www.tennischannel.app/image/original/5d95ead999361.png?v=20211004131544",CH825 TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
