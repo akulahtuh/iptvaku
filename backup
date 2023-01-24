@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:0 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://github.com/akulahtuh/icon/blob/main/GAGS.png?raw=true",Just For Laughs Gags
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8?checkedby:iptvcat.com
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="CLEAN IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/TVICON.png?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",CH101 TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
