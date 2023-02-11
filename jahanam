@@ -47,3 +47,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://www.tennischannel.app/image/original/5d95ead999361.png?v=20211004131544",CH825 TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png",HBO
+https://avi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits Asia" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png",HBO Hits
+https://avi-live-channel-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png",HBO Signature
+https://avi-live-channel-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family Asia" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png",HBO Family
+https://avi-live-channel-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png",Cinemax
+https://avi-live-channel-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://dl.dropboxusercontent.com/s/97dmg4rodbnm0gh/imc.png",IMC
+https://avi-live-channel-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
