@@ -15,56 +15,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hbo.png?raw=true",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hbo.png?raw=true",HBO
 https://avi-live-channel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hbohits.png?raw=true",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits Asia" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hbohits.png?raw=true",HBO HITS
 https://avi-live-channel-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hbosignature.png?raw=true",HBO SIGNATURE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hbosignature.png?raw=true",HBO SIGNATURE
 https://avi-live-channel-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hbofamily.png?raw=true",HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family Asia" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hbofamily.png?raw=true",HBO FAMILY
 https://avi-live-channel-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/cinemax.png?raw=true",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/cinemax.png?raw=true",CINEMAX
 https://avi-live-channel-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/axn.png?raw=true",AXN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://avi-live-channel-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hits.png?raw=true",HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://avi-live-channel-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hitsmovies.png?raw=true",HITS MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://avi-live-channel-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/hgtv.png?raw=true",HGTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://avi-live-channel-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-
-#EXTINF:-1 group-title="IPTV CHANNEL" group-logo="https://github.com/akulahtuh/iconproject/blob/main/tvicon.png?raw=true" tvg-logo="https://github.com/akulahtuh/iconproject/blob/main/animax.png?raw=true",ANIMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://avi-live-channel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
 
