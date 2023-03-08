@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",CH101 TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
 #EXTINF:-1 group-title="OLDIES IPTV" group-logo="https://github.com/akulahtuh/icon/blob/main/WORLDGLOBE.jpg?raw=true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",CH102 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
